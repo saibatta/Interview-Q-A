@@ -312,5 +312,3 @@ mongostat
 ```
 
 ---
-
-Let me know if you need further clarification or additional examples!
